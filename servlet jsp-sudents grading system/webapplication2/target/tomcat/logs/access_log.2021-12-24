@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [24/Dec/2021:09:45:12 -0800] "GET / HTTP/1.1" 200 286 http-bio-8080-exec-1 67
+0:0:0:0:0:0:0:1 - - [24/Dec/2021:09:46:23 -0800] "POST /login.do HTTP/1.1" 200 81 http-bio-8080-exec-4 7
+0:0:0:0:0:0:0:1 - - [24/Dec/2021:09:48:38 -0800] "POST /login.do HTTP/1.1" 200 81 http-bio-8080-exec-7 2
+0:0:0:0:0:0:0:1 - - [24/Dec/2021:09:48:40 -0800] "GET /login.do HTTP/1.1" 200 286 http-bio-8080-exec-9 1
+0:0:0:0:0:0:0:1 - - [24/Dec/2021:09:48:43 -0800] "POST /login.do HTTP/1.1" 200 307 http-bio-8080-exec-10 1
+0:0:0:0:0:0:0:1 - - [24/Dec/2021:09:54:44 -0800] "GET /BasicServlet HTTP/1.1" 200 84 http-bio-8080-exec-2 32
+0:0:0:0:0:0:0:1 - - [24/Dec/2021:09:55:54 -0800] "GET /BasicServlet HTTP/1.1" 200 84 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [24/Dec/2021:09:56:55 -0800] "POST /BasicServlet HTTP/1.1" 201 - http-bio-8080-exec-1 8
+0:0:0:0:0:0:0:1 - - [24/Dec/2021:09:57:04 -0800] "GET /BasicServlet HTTP/1.1" 200 124 http-bio-8080-exec-1 1

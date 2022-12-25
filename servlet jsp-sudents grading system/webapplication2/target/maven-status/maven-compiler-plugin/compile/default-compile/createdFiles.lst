@@ -1,0 +1,8 @@
+webapp/InsertStudent.class
+webapp/Marks.class
+webapp/LoginServlet.class
+webapp/Logout.class
+webapp/Apidb.class
+webapp/MarksAnalytics.class
+webapp/LoginStudent.class
+webapp/InsertGrades.class
